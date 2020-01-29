@@ -1,3 +1,5 @@
+This is a fork of a project with no commits in the last 2 years.  I have no intention of taking over support of this project - I have only added 1 feature to it for my own use.
+
 # MMM-CTA
 
 ![Example of MMM-CTA](./screenshots/MMM-CTA.png)
